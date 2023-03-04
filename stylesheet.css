@@ -1,0 +1,25 @@
+body {
+			font-family: Calibri, sans-serif;
+			margin: 1.5in;
+			text-align: center;
+		}
+		
+		h1, h2, h3 {
+			font-family: Cambria, serif;
+		}
+		.section {
+			margin-top: 0.5in;
+			font-size: large;
+		}
+		.subsection {
+			margin-top: 0.25in;
+		}
+		li {
+			margin-left: 80px;
+			margin-right: 80px;
+			text-align: left;
+			font-size: large;
+		}
+		.degrees {
+			line-height: 0.6;
+		}
